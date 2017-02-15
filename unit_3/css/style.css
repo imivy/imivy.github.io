@@ -1,0 +1,29 @@
+h1{
+	color: gray;
+	font-size: 28px;
+}
+
+body {
+	text-align: center;
+	background: url("../images/background.png");
+	background-size: cover;
+	color: gray;
+	font-family: Helvetica;
+}
+
+p {
+	font-size: 28px;
+}
+
+#slogan {
+	font-size: 18px;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+a {
+	font-size:18px;
+}
