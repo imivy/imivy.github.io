@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+
+h1{
+	color: purple;
+}
+
+body {
+	background: url("../images/background.png");
+	background-size: cover;
+	color: gray;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 28px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+
+#introname {
+	font-size: 40px;
+	line-height: 1.5em;
+	margin: 2em;
+	font-family: 'Roboto Slab', serif;
+}
+
+
+
+#slogan {
+	font-size: 28px;
+	line-height: 1.5em;
+	margin: 2em;
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+
+ul {
+    list-style-type: none;
+}
+
+a {
+	font-size:18px;
+}
+
