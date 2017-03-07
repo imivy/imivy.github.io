@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+	background: url("../images/background.png");
+	background-size: cover;
+	color: #9400D3;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 28px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+header img {
+	height: 100px;
+	float: left;
+}
+
+
+nav a {
+	font-family: 'Roboto Slab', serif;
+	font-size: 20px;
+	text-decoration: none;
+	color: #9400D3;
+	background-color: #E8C66A;
+	padding: 20px;
+	float: right;
+}
+
+a:hover {
+	color: #00BFFF;
+}
+
+section a:link {
+	text-decoration: none;
+}
+
+#intro {
+	font-size: 40px;
+	line-height: 1.5em;
+	margin: 2em;
+	font-family: 'Roboto Slab', serif;
+}
+
+#two_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 40px;
+
+}
+
+#left {
+	background: url("../images/olympia.jpg");
+	background-size: cover;
+	background-color: #E582A2;
+    padding: 2px;
+	float: left;
+	width: 48%;
+	height: 40%;
+	text-align: center;
+	color: white;
+
+
+}
+
+#right {
+	background: url("../images/acorn.jpg");
+	background-size: cover;
+	background-color: #E582A2;
+	padding: 2px;
+	float: right;
+	width: 48%;
+	height: 40%;
+	text-align: center;
+	color: white;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+	display:block;
+}
+
+footer {
+	background-color: #FF957E;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 18px;
+	color: ##9400D3;
+	clear: both;
+}
+
+
